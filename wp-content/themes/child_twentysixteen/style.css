@@ -1,0 +1,10 @@
+/*
+Theme Name: first child theme;
+Theme URI:simarsingh.fun;
+Description: This is a chilkd theme developed for the  devtools 2 class;
+Authir: simar;
+Version: 1.0;
+Template: twentysixteen
+*/
+
+@import url('../twentysixteen/style.css');
